@@ -1,4 +1,8 @@
-### Olá! eu sou a Nayara Karine 🖖
+### Olá! Me chamo Nayara Karine. 🖖
+Estou em uma transição de carreira. Atualmente trabalho como Auxiliar de Saúde Bucal. Desejo migrar profissinalmente e o maior foco é me tornar uma desenvolvedora.
+Sou apaixonada por tecnologia.
+Atualmente tenho aprimorado meus conhecimentos e habilidades na área de Front-end, mas futuramente também tenho interesse em ter conhecimento na área de Back-end. 
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayarakarine-araujo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nayarakarine.araujo/)
@@ -13,4 +17,4 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div><br/>
 
-Sou apaixonada pela Tecnologia e em como ela muda tudo a nossa volta. 💻
+Amo tecnologia e em como ela muda tudo a nossa volta. 💻
