@@ -1,5 +1,5 @@
 ### Olá mundo! Me chamo Nayara Karine. 🖖
-Estou em uma transição de carreira. Atualmente trabalho como Auxiliar de Saúde Bucal. Desejo migrar profissinalmente e o maior foco é me tornar uma desenvolvedora.
+Estou em uma transição de carreira. Atualmente trabalho como Auxiliar de Saúde Bucal. Desejo migrar profissionalmente e o maior foco é me tornar uma desenvolvedora.
 Sou apaixonada por tecnologia.
 Atualmente tenho aprimorado meus conhecimentos e habilidades na área de Front-end, mas futuramente também tenho interesse em ter conhecimento na área de Back-end. 
 
