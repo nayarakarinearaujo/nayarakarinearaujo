@@ -2,6 +2,8 @@
 Comecei minha jornada na área tech como Analista de Desenvolvimento de Sistemas.<br>
 Atualmente, estou focada em aprimorar minhas habilidades em diversas áreas, incluindo Front-end e Back-end. Estou explorando tecnologias modernas e frameworks que me permitirão criar soluções robustas e escaláveis.
 Estou animada para o que o futuro reserva nesta jornada de crescimento profissional, e estou determinada a alcançar meus objetivos como desenvolvedora de sistemas.<br>
+Amo tecnologia e em como ela muda tudo a nossa volta. 💻<br>
+
 Vamos construir juntos um futuro tecnológico brilhante! 🚀
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
@@ -28,4 +30,3 @@ Vamos construir juntos um futuro tecnológico brilhante! 🚀
     
 </div><br/>
 
-Amo tecnologia e em como ela muda tudo a nossa volta. 💻
