@@ -1,7 +1,8 @@
 ### Olá mundo! Me chamo Nayara Karine. 🖖
-Estou em uma transição de carreira. Atualmente trabalho como Auxiliar de Saúde Bucal. Desejo migrar profissionalmente e o maior foco é me tornar uma desenvolvedora.
-Sou apaixonada por tecnologia.
-Atualmente tenho aprimorado meus conhecimentos e habilidades na área de Front-end, mas futuramente também tenho interesse em ter conhecimento na área de Back-end. 
+Comecei minha jornada na área tech como Analista de Desenvolvimento de Sistemas.<br>
+Atualmente, estou focada em aprimorar minhas habilidades em diversas áreas, incluindo Front-end e Back-end. Estou explorando tecnologias modernas e frameworks que me permitirão criar soluções robustas e escaláveis.
+Estou animada para o que o futuro reserva nesta jornada de crescimento profissional, e estou determinada a alcançar meus objetivos como desenvolvedora de sistemas.<br>
+Vamos construir juntos um futuro tecnológico brilhante! 🚀
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayarakarine-araujo)
