@@ -51,14 +51,19 @@ Vamos construir juntos um futuro tecnológico brilhante! 🚀
 </div>
 <br/>
 
-### Ferramentas de Produtividade
+### Ferramentas de Design Gráfico
 <div style="display: inline_block">
     <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
     <img alt="Gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma"/>
+</div>
+<br/>
+
+### Ferramentas de Produtividade
+<div style="display: inline_block">
     <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
     <img alt="Trello" src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white"/>
 </div>
-
    
     
 </div><br/>
