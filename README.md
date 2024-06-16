@@ -1,4 +1,4 @@
-### Olá mundo! Me chamo Nayara Karine. 🖖
+### Olá mundo! Eu sou a Nayara Karine. 🖖
 Comecei minha jornada na área tech com um curso técnico há algum tempo. Recentemente, retomei meus estudos e estou cursando Engenharia de Software.<br>
 Atualmente, estou focada em aprimorar minhas habilidades em diversas áreas, incluindo Front-end e Back-end. Estou explorando tecnologias modernas e frameworks que me permitirão criar soluções robustas e escaláveis.<br>
 Estou animada para o que o futuro reserva nesta jornada de crescimento profissional e estou determinada a alcançar meus objetivos como desenvolvedora de sistemas.<br>
