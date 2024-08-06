@@ -4,7 +4,7 @@ Atualmente, estou focada em aprimorar minhas habilidades em diversas áreas, inc
 Estou animada para o que o futuro reserva nesta jornada de crescimento profissional e estou determinada a alcançar meus objetivos como desenvolvedora de sistemas.<br>
 Amo tecnologia e como ela muda tudo ao nosso redor. 💻<br>
 
-Vamos construir juntos um futuro tecnológico brilhante! 🚀
+Vamos construir juntos um futuro tecnológico brilhante! 🚀🚀
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayarakarine-araujo)
