@@ -1,11 +1,12 @@
-### Olá mundo! Eu sou a Nayara Karine. 🖖
-Minha jornada na área tech começou há algum tempo com um curso técnico, e atualmente estou cursando Engenharia de Software.
-Estou constantemente buscando aprimorar minhas habilidades em diversas áreas, incluindo Front-end e Back-end.
+### Olá, mundo! Eu sou Nayara Karine. 🖖
 
-Estou explorando tecnologias modernas e frameworks que me permitem criar soluções robustas e escaláveis. 
-Tenho experiência com Java, Spring Boot, React, e estou sempre interessada em aprender novas tecnologias. 
+Minha jornada no universo da tecnologia começou com um curso técnico, e atualmente estou cursando Engenharia de Software. Embora eu goste de explorar diversas áreas do desenvolvimento, meu foco atual está em Front-end, onde estou sempre buscando aprimorar minhas habilidades para criar interfaces dinâmicas e intuitivas.
 
-Amo tecnologia e como ela muda tudo ao nosso redor. 💻<br>
+Tenho experiência com HTML, CSS, JavaScript e frameworks como React, que me permitem desenvolver soluções eficientes e de alta performance. Para mim, o Front-end é uma forma de conectar o usuário final com a tecnologia de forma fluida e envolvente.
+
+Além disso, também estou familiarizada com o Back-end, trabalhando com Java e Spring Boot, o que me permite entender melhor o ciclo completo de desenvolvimento e garantir que o Front-end e o Back-end se integrem de forma harmoniosa.
+
+Amo tecnologia e como ela está transformando nosso cotidiano. 💻<br>
 
 Vamos construir juntos um futuro tecnológico brilhante! 🚀🚀
 
