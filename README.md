@@ -14,7 +14,7 @@ Atualmente, estou me aprofundando em React.js, explorando conceitos como compone
 Sou fascinada por como a tecnologia pode transformar vidas e acredito no poder do aprendizado contínuo. <br>
 Vamos construir algo incrível juntos? 🚀
 
-📂 GitHub: github.com/nayarakarinearaujo <br>
+📂 Portfólio: https://nayarakarine.com/ <br>
 📧 E-mail: nayarakarine.araujo@gmail.com <br>
 <br>
 
