@@ -1,14 +1,22 @@
-### Olá, mundo! Eu sou Nayara Karine. 🖖
+## Olá, mundo! Eu sou Nayara Karine. 🖖
 
-Minha jornada no universo da tecnologia começou com um curso técnico, e atualmente estou cursando Engenharia de Software. Embora eu goste de explorar diversas áreas do desenvolvimento, meu foco atual está em Front-end, onde estou sempre buscando aprimorar minhas habilidades para criar interfaces dinâmicas e intuitivas.
+Sou estudante de Engenharia de Software e apaixonada por desenvolvimento Front-end. Meu objetivo é criar interfaces modernas, acessíveis e intuitivas, proporcionando a melhor experiência possível para os usuários.
 
-Tenho experiência com HTML, CSS, JavaScript e frameworks como React, que me permitem desenvolver soluções eficientes e de alta performance. Para mim, o Front-end é uma forma de conectar o usuário final com a tecnologia de forma fluida e envolvente.
+### 💡 No que estou focada?
 
-Além disso, também estou familiarizada com o Back-end, trabalhando com Java e Spring Boot, o que me permite entender melhor o ciclo completo de desenvolvimento e garantir que o Front-end e o Back-end se integrem de forma harmoniosa.
+🚀 Desenvolvendo aplicações com HTML, CSS, JavaScript e React.js <br>
+🎨 Aprendendo UX/UI Design para criar experiências mais intuitivas <br>
+📌 Utilizando Figma para prototipação e design de interfaces <br>
+📊 Aplicando Scrum e Kanban para organização e colaboração <br>
 
-Amo tecnologia e como ela está transformando nosso cotidiano. 💻<br>
+Atualmente, estou me aprofundando em React.js, explorando conceitos como componentes, estado e hooks. Também estou estudando UX/UI Design para alinhar tecnologia e experiência do usuário de forma mais eficaz.
 
-Vamos construir juntos um futuro tecnológico brilhante! 🚀🚀
+Sou fascinada por como a tecnologia pode transformar vidas e acredito no poder do aprendizado contínuo. <br>
+Vamos construir algo incrível juntos? 🚀
+
+📂 GitHub: github.com/nayarakarinearaujo <br>
+📧 E-mail: nayarakarine.araujo@gmail.com <br>
+<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayarakarine-araujo)
